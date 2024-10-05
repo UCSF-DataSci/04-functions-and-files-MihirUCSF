@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
 # run code through terminal
 PS C:\Users\mihir> python "C:\Users\mihir\OneDrive\Desktop\DataSci217\Assignment-04 Mihir Kalyanthaya.py" 100 fibonacci_100.txt
-# output 
+# output text file
 0
 1
 1
