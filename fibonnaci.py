@@ -42,3 +42,20 @@ if __name__ == "__main__":
 				f.write(f"{number}\n")
 	except IOError as e:
 		print(f"I/O Error: {e}.")
+
+
+# run code through terminal
+PS C:\Users\mihir> python "C:\Users\mihir\OneDrive\Desktop\DataSci217\Assignment-04 Mihir Kalyanthaya.py" 100 fibonacci_100.txt
+# output 
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+89
